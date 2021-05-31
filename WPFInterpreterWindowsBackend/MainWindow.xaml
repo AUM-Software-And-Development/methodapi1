@@ -1,0 +1,14 @@
+﻿<Window x:Class="WPFInterpreterWindowsBackend.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InterpreterWindowsBackend"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="360" Width="720">
+    <Grid>
+        <Label Content="URL" Margin="0,0,360,300" Width="360" Height="100" />
+        <TextBox x:Name="APIBox" Margin="0,0,0,180" TextWrapping="Wrap" Width="720" Height="100"/>
+        <Button x:Name="POSTBox" Content="Post" Margin="0, 0, 0, 33" Height="30" Width="360" Click="POSTBox_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,1 @@
+E:\ASP\ASP.NET WebGL-UX-C#-API\SiteHost\InterpreterWindowsBackend\obj\Debug\net5.0-windows\WPF-InterpreterWindowsBackend.csprojAssemblyReference.cache

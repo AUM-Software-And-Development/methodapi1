@@ -1,0 +1,17 @@
+﻿<head>
+    <script src="~/Scripts/viewsJS/Index.js"></script>
+</head>
+
+<canvas id="IndexUX"></canvas>
+<input id="ObjectBoxInput" Type="text" />
+
+<script>
+    GetIndexUXContext("Hello world!");
+
+    var objectBoxInput = document.getElementById("ObjectBoxInput");
+    objectBoxInput.addEventListener("keyup", function (event) {
+        if (event.keyCode === 13) {
+            HTTPPOST(objectBoxInput.value);
+        }
+    });
+</script>

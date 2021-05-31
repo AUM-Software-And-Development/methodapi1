@@ -1,0 +1,6 @@
+E:\ASP\ASP.NET WebGL-UX-C#-API\SiteHost\CSharpInterpreterClasses(Framework)\obj\Debug\CSharpInterpreterClasses(Framework).csprojAssemblyReference.cache
+E:\ASP\ASP.NET WebGL-UX-C#-API\SiteHost\CSharpInterpreterClasses(Framework)\obj\Debug\CSharpInterpreterClasses(Framework).csproj.CoreCompileInputs.cache
+E:\ASP\ASP.NET WebGL-UX-C#-API\SiteHost\CSharpInterpreterClasses(Framework)\bin\Debug\CSharpInterpreterClasses(Framework).dll
+E:\ASP\ASP.NET WebGL-UX-C#-API\SiteHost\CSharpInterpreterClasses(Framework)\bin\Debug\CSharpInterpreterClasses(Framework).pdb
+E:\ASP\ASP.NET WebGL-UX-C#-API\SiteHost\CSharpInterpreterClasses(Framework)\obj\Debug\CSharpInterpreterClasses(Framework).dll
+E:\ASP\ASP.NET WebGL-UX-C#-API\SiteHost\CSharpInterpreterClasses(Framework)\obj\Debug\CSharpInterpreterClasses(Framework).pdb

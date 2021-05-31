@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WPFInterpreterWindowsBackend/1.0.0": {
+        "dependencies": {
+          "CSharpInterpreterClasses": "1.0.0"
+        },
+        "runtime": {
+          "WPFInterpreterWindowsBackend.dll": {}
+        }
+      },
+      "CSharpInterpreterClasses/1.0.0": {
+        "runtime": {
+          "CSharpInterpreterClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFInterpreterWindowsBackend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpInterpreterClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
